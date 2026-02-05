@@ -29,11 +29,13 @@
 
 ### Инструкция
 
-1. Клонируйте репозиторий:  
-   ```bash
-   git clone https://github.com/yunaaas/VOPO-RODNIK-VOTE-CRYPTO.git
-   cd VOPO-RODNIK-VOTE-CRYPTO
+## Установка и запуск
 
+1. Создайте и активируйте виртуальное окружение:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate  # Для Windows: venv\Scripts\activate
  Создайте и активируйте виртуальное окружение:
 
 python3 -m venv venv
