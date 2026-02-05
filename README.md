@@ -45,7 +45,7 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 Настройте токен в .env (создайте файл в корне проекта):
 env
-BOT_TOKEN='Ваш-токен-бота'
+BOT_TOKEN=''
 Запустите бота:
 python main.py
 Структура проекта
